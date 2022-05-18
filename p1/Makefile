@@ -4,7 +4,7 @@
 CC = g++
 
 #Compiler flags for Warning and debugging
-CFLAGS= -Wall -g
+CFLAGS= -Wall -g  -std=c++11
 
 #Target 
 TARGET = p1
